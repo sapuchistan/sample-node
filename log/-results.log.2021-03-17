@@ -1,0 +1,3 @@
+{"message":"Test info Log!","level":"info","timestamp":"2021-03-17T22:08:37.932Z"}
+{"message":"Test error Log!","level":"error","timestamp":"2021-03-17T22:08:37.933Z"}
+{"message":"El servidor se está ejecutando en http://127.0.0.1:3000/","level":"info","timestamp":"2021-03-17T22:08:37.933Z"}

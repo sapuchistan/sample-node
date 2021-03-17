@@ -1,0 +1,21 @@
+{
+    "env": {
+        "browser": true,
+        "commonjs": true,
+        "es2021": true
+    },
+    "extends": [
+        "airbnb-typescript"
+    ],
+    
+    "parserOptions": {
+        "ecmaVersion": 12,
+         "project": "./tsconfig.json"
+           
+    },
+    
+    "rules": {
+        "semi": ["error", "always"]
+    }
+    
+}

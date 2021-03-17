@@ -1,0 +1,6 @@
+{"message":"Test info Log!","level":"info","timestamp":"2021-03-17T21:32:46.638Z"}
+{"message":"Test error Log!","level":"error","timestamp":"2021-03-17T21:32:46.638Z"}
+{"message":"El servidor se está ejecutando en http://127.0.0.1:3000/","level":"info","timestamp":"2021-03-17T21:32:46.638Z"}
+{"message":"Test info Log!","level":"info","timestamp":"2021-03-17T21:33:37.777Z"}
+{"message":"Test error Log!","level":"error","timestamp":"2021-03-17T21:33:37.778Z"}
+{"message":"El servidor se está ejecutando en http://127.0.0.1:3000/","level":"info","timestamp":"2021-03-17T21:33:37.778Z"}
